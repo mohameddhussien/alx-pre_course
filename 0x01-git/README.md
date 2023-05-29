@@ -1,1 +1,2 @@
-My git Directory made from command terminal.
+My Git directory made from command terminal.
+My first edit!
